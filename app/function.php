@@ -1,5 +1,11 @@
 <?php
 
     function say(){
-        echo "HELLO";
+        echo "hello md";
+    }
+
+    function git () {
+        if (true) {
+            echo "fuck";
+        }
     }
