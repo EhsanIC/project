@@ -1,0 +1,14 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/" ,
+            "auth\\" : "auth" 
+        },
+        "files": [
+            "./app/function.php"
+        ]
+    }
+}
