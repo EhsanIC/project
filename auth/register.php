@@ -23,5 +23,6 @@
 </head>
 <body>
     <h2>REGISTER PAGE</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum quisquam eligendi obcaecati temporibus dicta id vitae earum quia iure maiores dolore accusamus eos, adipisci ducimus. Ipsam sint aperiam alias fugiat.</p>
 </body>
 </html>
