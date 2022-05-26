@@ -9,7 +9,12 @@
     $HelpMe->hill();
 
     echo "tihs Project";
+<<<<<<< HEAD
     echo "this porject is develop";
+=======
+    echo "this project is master";
+
+>>>>>>> master
 ?>
 
 <!DOCTYPE html>
