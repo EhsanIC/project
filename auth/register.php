@@ -8,8 +8,8 @@
 
     $HelpMe->hill();
 
-    echo "tihs Project the develop";
-
+    echo "tihs Project";
+    echo "this porject is develop";
 ?>
 
 <!DOCTYPE html>
